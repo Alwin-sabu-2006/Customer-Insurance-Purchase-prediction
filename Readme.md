@@ -1,5 +1,5 @@
 # Customer Purchase Prediction & Model Comparison
-
+This project was built as part of my Internship with Internforte.
 This project is a Jupyter/Google Colab notebook that demonstrates a complete machine learning workflow for a binary classification problem. The goal is to predict whether a customer will purchase a product based on their **Age** and **Estimated Salary**.
 
 The notebook's primary feature is a "bake-off," where five different classification algorithms are trained and evaluated to determine the most effective model for this dataset.
